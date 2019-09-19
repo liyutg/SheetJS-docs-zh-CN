@@ -768,7 +768,7 @@ for(var R = range.s.r; R <= range.e.r; ++R) {
 | --- | ---------- |
 | `v` | 原始值(查看数据类型部分获取更多的信息) |
 | `w` | 格式化文本(如果可以使用) |
-| `t` | 内行: `b` Boolean, `e` Error, `n` Number, `d` Date, `s` Text, `z` Stub |
+| `t` | 类型: `b` Boolean, `e` Error, `n` Number, `d` Date, `s` Text, `z` Stub |
 | `f` | 单元格公式编码为A1样式的字符串(如果可以使用) |
 | `F` | 如果公式是数组公式，则包围数组的范围(如果可以使用) |
 | `r` | 富文本编码 (如果可以使用) |
